@@ -18,11 +18,11 @@ Hey there! Thanks so much for your interest in **Mobbin Browser Assistant** — 
 
 Our **50 free trial spots** filled up faster than we expected (huge shoutout to everyone who jumped in early!).
 
-But don't worry — **we'd still love to get you set up.** Just reach out and we'll take care of you personally.
+But don't worry — **getting access is simple, and we're here to help every step of the way.**
 
-### 👉 [Join our Discord to get access](https://discord.gg/YOUR_INVITE_CODE)
+### 👉 [Join our Discord to get access](https://discord.gg/JcsdfxuZ)
 
-Pop into the Discord, drop a message in `#get-access`, and we'll respond ASAP. It's also the best place to get support, see changelogs, and chat with other users.
+Drop a message in `#get-access` and we'll get back to you personally, usually within a few hours.
 
 ---
 
@@ -50,69 +50,70 @@ Visit any Flows page and interaction recordings start playing automatically. No 
 
 ---
 
-## 💡 Why People Love It
+## 💰 Pricing
 
-> *"This saves me so much time in my daily design research workflow."*
+This is a **paid tool** — here's what you get and what it costs:
 
-> *"The Figma copy feature is a game-changer — I can reference 20+ screens in minutes."*
+| | Details |
+|---|---|
+| 💵 **Price** | Contact us on Discord for current pricing |
+| 🖥️ **Devices** | 1 license covers **2 devices** |
+| 🔄 **Updates** | Free updates included for the license period |
+| 🤝 **Setup** | 1-on-1 installation support included |
+| 💳 **Payment** | PayPal · Alipay · WeChat Pay |
 
-> *"Finally, a tool that just works without any weird workarounds."*
+> No subscriptions, no hidden fees. Pay once, use it.
 
 ---
 
-## 📦 Purchase Info
+## 📦 What You Get After Purchase
 
-Once you've connected with us on Discord, here's what you'll get:
-
-| Feature | Details |
-|---|---|
-| 📬 **Instant Delivery** | Extension + activation code sent immediately after purchase |
-| 🖥️ **Multi-Device** | 1 license covers 2 devices. Reset anytime to switch machines |
-| 🔄 **Auto-Updates** | A red dot appears on the icon when updates are available — one click to update |
-| 🌐 **Browser Support** | Chrome & Edge |
-| 🤝 **Setup Support** | We'll walk you through installation 1-on-1 if needed |
+- ✅ Extension files (ready to install)
+- ✅ Personal activation code (`XXXXXX-XXXXXX-XXXXXX` format)
+- ✅ Step-by-step installation guide
+- ✅ Direct support for any setup questions
+- ✅ Free updates with one-click in-extension updater
 
 ---
 
 ## 🛠️ Installation Overview
 
-> **Note:** Installation files and license codes are provided after purchase/access approval.
-
-1. Download and unzip the extension folder to a **permanent location** (don't move or delete it later)
+1. Unzip the extension folder to a **permanent location** (don't move or delete it later)
 2. Open `chrome://extensions` in Chrome or Edge
 3. Enable **Developer Mode** (top-right toggle)
-4. Click **"Load unpacked"** and select the `Mobbin-Extension` folder
-5. Click the extension icon and enter your activation code
-6. Head to [mobbin.com](https://mobbin.com) — you're all set! 🎉
+4. Click **"Load unpacked"** → select the `Mobbin-Extension` folder
+5. Click the extension icon → enter your activation code
+6. Go to [mobbin.com](https://mobbin.com) — enjoy! 🎉
 
 ---
 
 ## ❓ FAQ
 
 **Q: Do I need a Mobbin account?**
-A: Yes — just log in with your own account. This extension enhances what you already have access to.
+A: Yes — just log in with your own free or paid Mobbin account. This extension enhances what you already have access to.
 
 **Q: Does this work on Mac and Windows?**
-A: Yes, it works on both. Chrome and Edge are supported on all platforms.
+A: Yes. Chrome and Edge are supported on both platforms.
 
 **Q: What if I switch computers?**
 A: Use the built-in "Reset Device" option in the extension settings to free up your slot, then re-activate on the new machine.
 
 **Q: Will it keep working after updates?**
-A: Yes. When a new version is available, a notification appears in the extension. One click updates everything — your activation stays intact.
+A: Yes. When a new version drops, a notification appears in the extension. One click updates everything — activation stays intact.
 
 **Q: Is my Mobbin account safe?**
-A: Absolutely. The extension only modifies how images are displayed in your browser. It never touches your account credentials or sends any data anywhere.
+A: Absolutely. The extension only changes how images are displayed in your browser. It never touches your credentials or sends data anywhere.
+
+**Q: Can I get a refund?**
+A: Reach out on Discord — we handle everything case by case and want you to be happy with your purchase.
 
 ---
 
-## 📬 Get In Touch
+## 📬 Ready to Get Access?
 
-Questions, access requests, or just want to say hi?
+**[Join the Discord →](https://discord.gg/JcsdfxuZ)**
 
-**[Join the Discord →](https://discord.gg/YOUR_INVITE_CODE)**
-
-We're friendly, we respond quickly, and we genuinely want to help you get the most out of your design workflow.
+We're friendly, fast to respond, and genuinely want to help you level up your design workflow.
 
 ---
 
