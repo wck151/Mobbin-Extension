@@ -18,11 +18,9 @@ Hey there! Thanks so much for your interest in **Mobbin Browser Assistant** — 
 
 Our **50 free trial spots** filled up faster than we expected (huge shoutout to everyone who jumped in early!).
 
-But don't worry — **getting access is simple, and we're here to help every step of the way.**
+Getting access is simple — just join the Discord below and drop us a message. We respond personally, usually within a few hours.
 
 ### 👉 [Join our Discord to get access](https://discord.gg/JcsdfxuZ)
-
-Drop a message in `#get-access` and we'll get back to you personally, usually within a few hours.
 
 ---
 
@@ -52,23 +50,21 @@ Visit any Flows page and interaction recordings start playing automatically. No 
 
 ## 💰 Pricing
 
-This is a **paid tool** — here's what you get and what it costs:
+| Plan | Price | Best For |
+|---|---|---|
+| 🗓️ **Monthly** | $6.9 / month | Try it out, cancel anytime |
+| 📅 **Yearly** | $39 / year | Best value — saves 53% vs monthly |
+| ♾️ **Lifetime** | $89 one-time | Power users, pay once and you're done |
 
-| | Details |
-|---|---|
-| 💵 **Price** | Contact us on Discord for current pricing |
-| 🖥️ **Devices** | 1 license covers **2 devices** |
-| 🔄 **Updates** | Free updates included for the license period |
-| 🤝 **Setup** | 1-on-1 installation support included |
-| 💳 **Payment** | PayPal · Alipay · WeChat Pay |
-
-> No subscriptions, no hidden fees. Pay once, use it.
+> All plans include **2 devices**, free updates, and 1-on-1 setup support.
+>
+> 💳 Payment: **PayPal · Alipay · WeChat Pay**
 
 ---
 
 ## 📦 What You Get After Purchase
 
-- ✅ Extension files (ready to install)
+- ✅ Extension files (ready to install in Chrome or Edge)
 - ✅ Personal activation code (`XXXXXX-XXXXXX-XXXXXX` format)
 - ✅ Step-by-step installation guide
 - ✅ Direct support for any setup questions
@@ -99,7 +95,7 @@ A: Yes. Chrome and Edge are supported on both platforms.
 A: Use the built-in "Reset Device" option in the extension settings to free up your slot, then re-activate on the new machine.
 
 **Q: Will it keep working after updates?**
-A: Yes. When a new version drops, a notification appears in the extension. One click updates everything — activation stays intact.
+A: Yes. When a new version drops, a notification appears in the extension. One click updates everything — your activation stays intact.
 
 **Q: Is my Mobbin account safe?**
 A: Absolutely. The extension only changes how images are displayed in your browser. It never touches your credentials or sends data anywhere.
